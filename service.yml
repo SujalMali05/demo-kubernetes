@@ -1,0 +1,4 @@
+apiversion: v2
+kind: service
+metadata:
+    name: xyz
